@@ -5,6 +5,9 @@ compile using
 
 ## to do
 clean up the code of debug prints;
+
 implement remaining opCodes;
-non brute-force way to select ROM
+
+non brute-force way to select ROM;
+
 maybe an interface?
