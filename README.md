@@ -1,2 +1,4 @@
 # liv8
-CHIP8 emulator for PC
+##a CHIP8 emulator for PC using C.
+###compile using
+ > mingw32-make
